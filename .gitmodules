@@ -4,3 +4,6 @@
 [submodule "blockchain"]
 	path = blockchain
 	url = https://github.com/buddhadonthavemoney/BlockchainFromScrath
+[submodule "go-practice-snippets"]
+	path = go-practice-snippets
+	url = https://github.com/buddhadonthavemoney/go-practice-snippets
