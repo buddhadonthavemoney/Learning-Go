@@ -1,0 +1,6 @@
+[submodule "go-micro"]
+	path = go-micro
+	url = https://github.com/buddhadonehavemoney/go-micro
+[submodule "blockchain"]
+	path = blockchain
+	url = https://github.com/buddhadonthavemoney/BlockchainFromScrath
