@@ -1,12 +1,12 @@
 [submodule "go-micro"]
 	path = go-micro
-	url = https://github.com/buddhadonthavemoney/go-micro
+	url = git@github.com:buddhadonthavemoney/go-micro
 	branch = main
 [submodule "blockchain"]
 	path = blockchain
-	url = https://github.com/buddhadonthavemoney/BlockchainFromScrath
+	url = git@github.com:buddhadonthavemoney/BlockchainFromScrath
 	branch = main
 [submodule "go-practice-snippets"]
 	path = go-practice-snippets
-	url = https://github.com/buddhadonthavemoney/go-practice-snippets
+	url = git@github.com:buddhadonthavemoney/go-practice-snippets.git
 	branch = main
