@@ -10,3 +10,6 @@
 	path = go-practice-snippets
 	url = git@github.com:buddhadonthavemoney/go-practice-snippets.git
 	branch = main
+[submodule "RSSFeedAggregator"]
+	path = RSSFeedAggregator
+	url = git@github.com:buddhadonthavemoney/RSSFeedAggregator.git
