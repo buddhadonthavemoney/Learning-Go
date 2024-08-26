@@ -13,3 +13,4 @@
 [submodule "RSSFeedAggregator"]
 	path = RSSFeedAggregator
 	url = git@github.com:buddhadonthavemoney/RSSFeedAggregator.git
+	branch = main
